@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: WardScore
 byline: League of Legends Ward Tracker
 img: ward.png

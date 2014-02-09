@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Olin Wii Sports Ladder
 byline: Custom Sport Ranking Website
 img: olinwiisportstease.png

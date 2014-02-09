@@ -271,6 +271,22 @@ section h1 {
 .links a:hover {
 	color: #C42F2F;
 }
+
+.md_content {
+
+	width: 50%;
+	display: inline-block;
+	text-align: left;
+
+}
+
+.md_content ul {
+	list-style: none;
+}
+
+.md_content h1 {
+	padding-bottom: 10px;
+}
 /* 
 @media screen and (max-width: 880px){
 

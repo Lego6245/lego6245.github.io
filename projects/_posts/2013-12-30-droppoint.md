@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: DropPoint
 byline: Location Based File Sharing for Android
 img: dropptresize.png
