@@ -272,11 +272,37 @@ section h1 {
 	color: #C42F2F;
 }
 
+.post_title {
+	width: 60%;
+	display: inline-block;
+	padding: 20px;
+	text-align: left;
+	background-color: rgba(66,66,66,.8);
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+
+.text_box {
+	display: inline;
+	float: left;
+	width: auto;
+}
+
+.post_title img {
+	max-width: 100px;
+	float: right;
+	display: inline;
+}
+
 .md_content {
 
 	width: 50%;
 	display: inline-block;
 	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+	background-color: rgba(66,66,66,.8);
+	padding: 20px;
+	border-radius: 5px;
 
 }
 
@@ -286,7 +312,28 @@ section h1 {
 
 .md_content h1 {
 	padding-bottom: 10px;
+	font-size: 24px;
 }
+
+.md_content *{
+	padding: 5px;
+	font-size: 18px;
+}
+
+.md_content img { 
+	margin:0 auto 10px;
+	display:block;
+	max-width:512px;
+}
+
+hr{ background:transparent #FFF repeat-x 0 0;
+	border:0 none;
+	color:#cccccc;
+	height:4px;
+	padding:0; }
+
+
+
 /* 
 @media screen and (max-width: 880px){
 
