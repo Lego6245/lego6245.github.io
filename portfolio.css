@@ -273,7 +273,7 @@ section h1 {
 }
 
 .post_title {
-	width: 60%;
+	width: 70%;
 	display: inline-block;
 	padding: 20px;
 	text-align: left;
@@ -289,14 +289,14 @@ section h1 {
 }
 
 .post_title img {
-	max-width: 100px;
+	max-height: 105px;
 	float: right;
 	display: inline;
 }
 
 .md_content {
 
-	width: 50%;
+	width: 70%;
 	display: inline-block;
 	text-align: left;
 	font-family: 'Open Sans', sans-serif;
