@@ -327,6 +327,12 @@ section h1 {
 	max-width:512px;
 }
 
+.md_content a {
+	color: #99C;
+	padding: 0;
+	margin: 0;
+}
+
 hr{ background:transparent #FFF repeat-x 0 0;
 	border:0 none;
 	color:#cccccc;
