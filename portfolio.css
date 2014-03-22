@@ -312,7 +312,8 @@ section h1 {
 
 .md_content h1 {
 	padding-bottom: 10px;
-	font-size: 24px;
+	font-size: 26px;
+	font-family: 'Inder', sans-serif;
 }
 
 .md_content *{
