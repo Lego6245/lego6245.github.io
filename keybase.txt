@@ -1,0 +1,82 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am lego6245 on github.
+  * I am lego (https://keybase.io/lego) on keybase.
+  * I have a public key whose fingerprint is 2698 FB26 B93A 10CD 205C  DC4B EC9C BB65 0607 6F76
+
+To claim this, I am signing this object:
+
+```json
+{
+    "body": {
+        "key": {
+            "fingerprint": "2698fb26b93a10cd205cdc4bec9cbb6506076f76",
+            "host": "keybase.io",
+            "key_id": "ec9cbb6506076f76",
+            "uid": "dca6b7721a08e994d9cc53bf57bf3000",
+            "username": "lego"
+        },
+        "service": {
+            "name": "github",
+            "username": "lego6245"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402642579,
+    "expire_in": 157680000,
+    "prev": "986c5a5c0a4b51199678c37261e48814ca1aa10f2ba8b449e2de1afe5e7369ae",
+    "seqno": 2,
+    "tag": "signature"
+}
+```
+
+with the PGP key whose fingerprint is
+[2698 FB26 B93A 10CD 205C  DC4B EC9C BB65 0607 6F76](https://keybase.io/lego)
+(captured above as `body.key.fingerprint`), yielding the PGP signature:
+
+```
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.22
+Comment: https://keybase.io/crypto
+
+yMHcAnicbZFdSBRfGMZ30xKlpMQCvQg6Wrq5xczsfK5ohkVEGPZBZRnbnDNn1sF2
+dp3ZXfOLLLzQzC4KMxaLJQoyu6qoECORInLR6E9QSBeBX/wLQ9lNS0s9K3ZVV4fz
+vL/nOe973pfrEiwpVt/5hROqpkSskb7xgOVIKHytDkCvUgOcdaASLx+qprux4TM0
+3Q+cgOElUYUMDyWHTFNIYSgOKYiFGEkIQp6jeErgVYEHdlDhNeMOEgNlE+/UvEQj
+F5emEPUffGC5oCCZh4LA0DIlYkliFQkhzgFVToCqg6KoOGhiQ5c9mNBnsdsLGuyA
+KEENEaUOrFTcmr8iAP+meYbl4g5/jS8uVWPoWjG7oKYrZFjiCWLD1Lw6cNKERH4t
+7qZZiuFZhhMkO8DnfJqBXVqc4AReJH1RduAzcJBESiKPOJlDlMxCjqYliRdE5BAY
+nsasKNIskmmZ/J3KQFmELCthRsG0rGIOCw5ekjF538RVuhc4GdKm7CaRpubWZX/A
+wKChv6880WJNsaxZvSq+LktK8vo/S3z+NWmxoW/L46HZw41Kfn91aGDwQsf/pWh+
+5lTXfZtja+G+0anfJ8tj9e+fdOW25Xlqw55bG1MHyxojaZbOnP+Ov9Kj7SPp4dHu
+T1c+6tnbvi3M5cy/TU21Xc0uikWK8n/1ejZ0PXSkeefcvTlobLp4bVK0ZdyoH9r+
+9O7IcNqNntjUroMFmWbGTZs1yxLtfNTS1PPj0Mz+poQB25nCi5c/vJ6/3l1SWGLs
+PbZI54bTW9ubS6nu9qPPmjvhT3i6YDJUlmVunu3Y/WCH60DVbVfJJubepYnKaGar
+UjqRbI0l7pl+Z5+dTKYbX2SEEsS5vEGNK27Jr01KHxl+M/b5zvdg4pe2JZy5FBQ=
+=U5Sg
+-----END PGP MESSAGE-----
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/lego
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/docs/command_line).
+
+```bash
+# look me up
+keybase id lego
+
+# encrypt a message to me
+keybase encrypt lego -m 'a secret message...'
+
+# ...and more...
+```
