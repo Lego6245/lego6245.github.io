@@ -1,14 +1,15 @@
-### Keybase proof
+==================================================================
+https://keybase.io/lego
+--------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am lego6245 on github.
+  * I am an admin of http://williamsaulnier.com
   * I am lego (https://keybase.io/lego) on keybase.
-  * I have a public key whose fingerprint is 2698 FB26 B93A 10CD 205C  DC4B EC9C BB65 0607 6F76
+  * I have a public key with fingerprint 2698 FB26 B93A 10CD 205C  DC4B EC9C BB65 0607 6F76
 
 To claim this, I am signing this object:
 
-```json
 {
     "body": {
         "key": {
@@ -19,64 +20,46 @@ To claim this, I am signing this object:
             "username": "lego"
         },
         "service": {
-            "name": "github",
-            "username": "lego6245"
+            "hostname": "williamsaulnier.com",
+            "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1402642579,
+    "ctime": 1402642734,
     "expire_in": 157680000,
-    "prev": "986c5a5c0a4b51199678c37261e48814ca1aa10f2ba8b449e2de1afe5e7369ae",
-    "seqno": 2,
+    "prev": "af9c4f10fa9d79df29d88edb13470971da9ccc3ca4c07d2cd6779126c69819d4",
+    "seqno": 3,
     "tag": "signature"
 }
-```
 
-with the PGP key whose fingerprint is
-[2698 FB26 B93A 10CD 205C  DC4B EC9C BB65 0607 6F76](https://keybase.io/lego)
-(captured above as `body.key.fingerprint`), yielding the PGP signature:
+with the aforementioned key, yielding the PGP signature:
 
-```
 -----BEGIN PGP MESSAGE-----
 Version: Keybase OpenPGP v0.1.22
 Comment: https://keybase.io/crypto
 
-yMHcAnicbZFdSBRfGMZ30xKlpMQCvQg6Wrq5xczsfK5ohkVEGPZBZRnbnDNn1sF2
-dp3ZXfOLLLzQzC4KMxaLJQoyu6qoECORInLR6E9QSBeBX/wLQ9lNS0s9K3ZVV4fz
-vL/nOe973pfrEiwpVt/5hROqpkSskb7xgOVIKHytDkCvUgOcdaASLx+qprux4TM0
-3Q+cgOElUYUMDyWHTFNIYSgOKYiFGEkIQp6jeErgVYEHdlDhNeMOEgNlE+/UvEQj
-F5emEPUffGC5oCCZh4LA0DIlYkliFQkhzgFVToCqg6KoOGhiQ5c9mNBnsdsLGuyA
-KEENEaUOrFTcmr8iAP+meYbl4g5/jS8uVWPoWjG7oKYrZFjiCWLD1Lw6cNKERH4t
-7qZZiuFZhhMkO8DnfJqBXVqc4AReJH1RduAzcJBESiKPOJlDlMxCjqYliRdE5BAY
-nsasKNIskmmZ/J3KQFmELCthRsG0rGIOCw5ekjF538RVuhc4GdKm7CaRpubWZX/A
-wKChv6880WJNsaxZvSq+LktK8vo/S3z+NWmxoW/L46HZw41Kfn91aGDwQsf/pWh+
-5lTXfZtja+G+0anfJ8tj9e+fdOW25Xlqw55bG1MHyxojaZbOnP+Ov9Kj7SPp4dHu
-T1c+6tnbvi3M5cy/TU21Xc0uikWK8n/1ejZ0PXSkeefcvTlobLp4bVK0ZdyoH9r+
-9O7IcNqNntjUroMFmWbGTZs1yxLtfNTS1PPj0Mz+poQB25nCi5c/vJ6/3l1SWGLs
-PbZI54bTW9ubS6nu9qPPmjvhT3i6YDJUlmVunu3Y/WCH60DVbVfJJubepYnKaGar
-UjqRbI0l7pl+Z5+dTKYbX2SEEsS5vEGNK27Jr01KHxl+M/b5zvdg4pe2JZy5FBQ=
-=U5Sg
+yMH6AnicbZF/SBRpGMd3NU0XCyH/kCDr5pa7KFtnZmdndlYOlILQE8LrOH8QLjPv
++8760u7M3uzsmm0quXJ3cUd4Kp15FuhGtQWrUEJQordoVCt1kBTWgX/UdrTgH4Ic
+1HKr7y72X38N7/f5fL/P88yzsKvQZDH7+7KtCoZJc3J+I2g6OTZhC1OyBrspV5g6
+jfIfBasepPt1rBqUi2J50anILC+LdomhAWRpB4CAkxEQgSzzDpqnBV4ReKqa6tQC
+OQeJkaUAsmGNaOThxpCon+GD+QIEEi8LAstItBOJIgdFABx2WXEIsmKnaToHBpCu
+Sj5EaC/yaFRPNUWUEAZECefbble7sNeLJV9ACnpVjHQb0HzE7tc1QwOalwCdhuF3
+5fxGtz9vQLJ7O8otYxWS1YkhhPQA1lTKxRASGDiXzXA0y3OsYOeqKXTGj3XkxjnC
+IfBOMiWda4NCJFJSRMApDK1IIhREqLAidDoRlBk7J9CiwECJLAjsQOIALUAWQF4Q
+RIblAfnRjAg50j+AflQ1ymUnY0oeEhnAHlUygjqiehLzp3aYzBZTcVFB7ngmS2n5
+p5N6Mzs3j/aaD868GSqJPV/41sbPlqXqV/9caruyeC4Ry779ZSzUZW1JjoRfPvr9
+aXqg5Ua85sJyqv3DXpt+/Hba+v7a9R/6L9YUo/vJGb028qRJHs38v/as5kBskb37
+ZYlxU+6Yq/BGRn37EinrH+O1jSbm16lNW9Fm1eTEUGwmPX1k/9eH3X3fDLa10tEV
+sTfy1Z25746dmKr8+Nue9Mq6da23rurSF+HF8y9Gmx9Pfu/YmBxZNr0bLv0vsX7r
+n7q+TGVJ5YN4vGfw547yioaBsgUmnsqeHStotqQj/7YXNr4an44W00vun/wNVw/t
+tvZfxhPD9at/RWcz06ls9O97Kw9tTa+3AFXMHPE=
+=3oaX
 -----END PGP MESSAGE-----
 
-```
+And finally, I am proving ownership of this host by posting or
+appending to this document.
 
-And finally, I am proving ownership of the github account by posting this as a gist.
+View my publicly-auditable identity here: https://keybase.io/lego
 
-### My publicly-auditable identity:
-
-https://keybase.io/lego
-
-### From the command line:
-
-Consider the [keybase command line program](https://keybase.io/docs/command_line).
-
-```bash
-# look me up
-keybase id lego
-
-# encrypt a message to me
-keybase encrypt lego -m 'a secret message...'
-
-# ...and more...
-```
+==================================================================
