@@ -4,7 +4,7 @@ layout: default
 <div class="projects">
 	<h2>Projects and Apps</h2>
 	<ul>
-	{% for post in site.categories['projects'] %}
+	{% for post in site.categories['projects'] limit:6 %}
 	<li>
 		<a href="{% if post.liveurl %}{{post.liveurl}}{% else %}{{ post.url }}{% endif %}" target="_blank">
 		<div>
